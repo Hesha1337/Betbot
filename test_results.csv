@@ -1,0 +1,5 @@
+timestamp,event,title,author,bets,winrate,price,postUrl,profileUrl
+2025-09-13T23:40:02.240Z,Real Madrid vs Barcelona,Real Madrid vs Barcelona - Over 2.5 Goals,TestUser1,1500,12.5,1.85,https://www.oddsportal.com/community/post/123,https://www.oddsportal.com/profile/TestUser1/
+2025-09-13T23:40:02.242Z,Bayern Munich vs Dortmund,Bayern Munich vs Dortmund - Home Win,TestUser2,2500,8.2,2.1,https://www.oddsportal.com/community/post/124,https://www.oddsportal.com/profile/TestUser2/
+2025-09-13T23:40:02.243Z,Liverpool vs Chelsea,Liverpool vs Chelsea - Both Teams to Score,TestUser3,800,15,1.95,https://www.oddsportal.com/community/post/125,https://www.oddsportal.com/profile/TestUser3/
+2025-09-13T23:40:02.243Z,PSG vs Marseille,PSG vs Marseille - Over 3.5 Goals,TestUser4,1200,13.8,2.5,https://www.oddsportal.com/community/post/126,https://www.oddsportal.com/profile/TestUser4/
